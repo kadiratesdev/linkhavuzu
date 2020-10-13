@@ -10,9 +10,9 @@ $TUR='Normal';  // Normal yada Turkce
 $ZAMAN='2014-04-07 10:00:00'; 
 
 
-$numara1='5316921012';
+$numara1='';
 $mesaj1='Bu birinci telefona gonderdigim mesaj';
-$numara2='5316921012';
+$numara2='';
 $mesaj2='Bu ikinci telefona gonderdigim mesaj';
 
 $xmlString='data=<sms>
@@ -31,8 +31,8 @@ $xmlString='data=<sms>
 <tur>'. $TUR .'</tur> 
 </sms>';  
 
-// Xml içinde aşağıdaki alanlarıda gönderebilirsiniz.
-//<zaman>'. $ZAMAN.'</zaman> İleri tarih için kullanabilirsiniz
+// Xml iÃ§inde aÃ¾aÃ°Ã½daki alanlarÃ½da gÃ¶nderebilirsiniz.
+//<zaman>'. $ZAMAN.'</zaman> Ãleri tarih iÃ§in kullanabilirsiniz
 
 $Veriler =  $xmlString;
 $ch = curl_init();
