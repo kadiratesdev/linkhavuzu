@@ -1,0 +1,4 @@
+AuthName "Şifre Koruması"
+AuthType Basic
+AuthUserFile .htpasswd
+require valid-user

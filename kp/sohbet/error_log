@@ -1,0 +1,82 @@
+[08-Aug-2016 13:49:33 UTC] PHP Notice:  Undefined variable: oturum in /home/linkhavu/public_html/kp/sohbet/index.php on line 2
+[08-Aug-2016 13:49:33 UTC] PHP Notice:  Undefined variable: _SESSION in /home/linkhavu/public_html/kp/sohbet/index.php on line 167
+[08-Aug-2016 14:25:12 UTC] PHP Notice:  Undefined variable: oturum in /home/linkhavu/public_html/kp/sohbet/index.php on line 2
+[08-Aug-2016 14:25:12 UTC] PHP Notice:  Undefined variable: _SESSION in /home/linkhavu/public_html/kp/sohbet/index.php on line 167
+[08-Aug-2016 14:28:26 UTC] PHP Notice:  Undefined variable: oturum in /home/linkhavu/public_html/kp/sohbet/index.php on line 2
+[08-Aug-2016 14:28:26 UTC] PHP Notice:  Undefined variable: _SESSION in /home/linkhavu/public_html/kp/sohbet/index.php on line 167
+[08-Aug-2016 14:41:26 UTC] PHP Notice:  Undefined variable: oturum in /home/linkhavu/public_html/kp/sohbet/index.php on line 2
+[08-Aug-2016 14:41:26 UTC] PHP Notice:  Undefined variable: _SESSION in /home/linkhavu/public_html/kp/sohbet/index.php on line 167
+[08-Aug-2016 14:52:23 UTC] PHP Notice:  Undefined variable: oturum in /home/linkhavu/public_html/kp/sohbet/index.php on line 2
+[08-Aug-2016 14:52:23 UTC] PHP Notice:  Undefined variable: _SESSION in /home/linkhavu/public_html/kp/sohbet/index.php on line 167
+[08-Aug-2016 15:53:58 UTC] PHP Notice:  Undefined variable: oturum in /home/linkhavu/public_html/kp/sohbet/index.php on line 2
+[08-Aug-2016 15:53:58 UTC] PHP Notice:  Undefined variable: _SESSION in /home/linkhavu/public_html/kp/sohbet/index.php on line 167
+[08-Aug-2016 15:54:16 UTC] PHP Notice:  Undefined variable: oturum in /home/linkhavu/public_html/kp/sohbet/index.php on line 2
+[08-Aug-2016 15:54:16 UTC] PHP Notice:  Undefined variable: _SESSION in /home/linkhavu/public_html/kp/sohbet/index.php on line 167
+[08-Aug-2016 15:54:59 UTC] PHP Notice:  Undefined variable: _SESSION in /home/linkhavu/public_html/kp/sohbet/index.php on line 2
+[08-Aug-2016 15:54:59 UTC] PHP Notice:  Undefined variable: _SESSION in /home/linkhavu/public_html/kp/sohbet/index.php on line 168
+[08-Aug-2016 15:55:17 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/linkhavu/public_html/kp/sohbet/index.php on line 12
+[08-Aug-2016 15:55:18 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/linkhavu/public_html/kp/sohbet/index.php on line 12
+[08-Aug-2016 15:55:20 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/linkhavu/public_html/kp/sohbet/index.php on line 12
+[08-Aug-2016 15:55:20 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/linkhavu/public_html/kp/sohbet/index.php on line 12
+[08-Aug-2016 15:55:21 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/linkhavu/public_html/kp/sohbet/index.php on line 12
+[08-Aug-2016 15:55:32 UTC] PHP Notice:  Undefined index: oturum in /home/linkhavu/public_html/kp/sohbet/index.php on line 162
+[08-Aug-2016 15:55:34 UTC] PHP Notice:  Undefined index: oturum in /home/linkhavu/public_html/kp/sohbet/index.php on line 162
+[08-Aug-2016 15:56:08 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/linkhavu/public_html/kp/sohbet/index.php on line 10
+[08-Aug-2016 15:56:11 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/linkhavu/public_html/kp/sohbet/index.php on line 10
+[08-Aug-2016 15:56:25 UTC] PHP Notice:  Undefined index: oturum in /home/linkhavu/public_html/kp/sohbet/index.php on line 169
+[08-Aug-2016 15:56:27 UTC] PHP Notice:  Undefined index: oturum in /home/linkhavu/public_html/kp/sohbet/index.php on line 169
+[08-Aug-2016 15:56:29 UTC] PHP Notice:  Undefined index: oturum in /home/linkhavu/public_html/kp/sohbet/index.php on line 169
+[08-Aug-2016 15:56:46 UTC] PHP Notice:  Undefined index: oturum in /home/linkhavu/public_html/kp/sohbet/index.php on line 170
+[08-Aug-2016 17:39:51 UTC] PHP Notice:  Undefined variable: _SESSION in /home/linkhavu/public_html/kp/sohbet/index.php on line 170
+[08-Aug-2016 18:07:52 UTC] PHP Notice:  Undefined variable: _SESSION in /home/linkhavu/public_html/kp/sohbet/index.php on line 170
+[08-Aug-2016 19:27:49 UTC] PHP Notice:  Undefined variable: _SESSION in /home/linkhavu/public_html/kp/sohbet/index.php on line 170
+[08-Aug-2016 19:32:09 UTC] PHP Notice:  Undefined variable: _SESSION in /home/linkhavu/public_html/kp/sohbet/index.php on line 170
+[08-Aug-2016 20:33:42 UTC] PHP Notice:  Undefined variable: _SESSION in /home/linkhavu/public_html/kp/sohbet/index.php on line 170
+[08-Aug-2016 21:09:21 UTC] PHP Notice:  Undefined variable: _SESSION in /home/linkhavu/public_html/kp/sohbet/index.php on line 170
+[08-Aug-2016 22:13:20 UTC] PHP Notice:  Undefined variable: _SESSION in /home/linkhavu/public_html/kp/sohbet/index.php on line 170
+[09-Aug-2016 08:03:41 UTC] PHP Notice:  Undefined variable: _SESSION in /home/linkhavu/public_html/kp/sohbet/index.php on line 170
+[09-Aug-2016 08:07:01 UTC] PHP Notice:  Undefined variable: _SESSION in /home/linkhavu/public_html/kp/sohbet/index.php on line 170
+[09-Aug-2016 08:08:49 UTC] PHP Notice:  Undefined variable: _SESSION in /home/linkhavu/public_html/kp/sohbet/index.php on line 170
+[09-Aug-2016 09:40:20 UTC] PHP Notice:  Undefined variable: _SESSION in /home/linkhavu/public_html/kp/sohbet/index.php on line 170
+[09-Aug-2016 11:45:46 UTC] PHP Notice:  Undefined variable: _SESSION in /home/linkhavu/public_html/kp/sohbet/index.php on line 170
+[09-Aug-2016 14:19:27 UTC] PHP Notice:  Undefined variable: _SESSION in /home/linkhavu/public_html/kp/sohbet/index.php on line 170
+[09-Aug-2016 14:41:14 UTC] PHP Notice:  Undefined variable: _SESSION in /home/linkhavu/public_html/kp/sohbet/index.php on line 170
+[09-Aug-2016 14:41:40 UTC] PHP Notice:  Undefined variable: _SESSION in /home/linkhavu/public_html/kp/sohbet/index.php on line 170
+[09-Aug-2016 15:20:24 UTC] PHP Notice:  Undefined variable: _SESSION in /home/linkhavu/public_html/kp/sohbet/index.php on line 170
+[09-Aug-2016 16:29:27 UTC] PHP Notice:  Undefined variable: _SESSION in /home/linkhavu/public_html/kp/sohbet/index.php on line 170
+[09-Aug-2016 17:48:36 UTC] PHP Notice:  Undefined variable: _SESSION in /home/linkhavu/public_html/kp/sohbet/index.php on line 170
+[09-Aug-2016 19:11:28 UTC] PHP Notice:  Undefined variable: _SESSION in /home/linkhavu/public_html/kp/sohbet/index.php on line 170
+[09-Aug-2016 19:11:50 UTC] PHP Notice:  Undefined variable: _SESSION in /home/linkhavu/public_html/kp/sohbet/index.php on line 170
+[09-Aug-2016 20:58:58 UTC] PHP Notice:  Undefined variable: _SESSION in /home/linkhavu/public_html/kp/sohbet/index.php on line 170
+[09-Aug-2016 21:01:24 UTC] PHP Notice:  Undefined variable: _SESSION in /home/linkhavu/public_html/kp/sohbet/index.php on line 170
+[09-Aug-2016 21:02:01 UTC] PHP Notice:  Undefined variable: kulAdi in /home/linkhavu/public_html/kp/sohbet/index.php on line 45
+[09-Aug-2016 21:02:01 UTC] PHP Notice:  Undefined variable: _SESSION in /home/linkhavu/public_html/kp/sohbet/index.php on line 170
+[09-Aug-2016 21:02:29 UTC] PHP Notice:  Undefined variable: kulAdi in /home/linkhavu/public_html/kp/sohbet/index.php on line 45
+[09-Aug-2016 21:02:29 UTC] PHP Notice:  Undefined variable: _SESSION in /home/linkhavu/public_html/kp/sohbet/index.php on line 170
+[09-Aug-2016 21:02:48 UTC] PHP Notice:  Undefined variable: kulAdi in /home/linkhavu/public_html/kp/sohbet/index.php on line 45
+[09-Aug-2016 21:02:48 UTC] PHP Notice:  Undefined variable: _SESSION in /home/linkhavu/public_html/kp/sohbet/index.php on line 170
+[09-Aug-2016 21:03:19 UTC] PHP Notice:  Undefined variable: kulAdi in /home/linkhavu/public_html/kp/sohbet/index.php on line 45
+[09-Aug-2016 21:03:19 UTC] PHP Notice:  Undefined variable: _SESSION in /home/linkhavu/public_html/kp/sohbet/index.php on line 170
+[10-Aug-2016 02:36:53 UTC] PHP Notice:  Undefined index: kulAdi in /home/linkhavu/public_html/kp/sohbet/index.php on line 5
+[10-Aug-2016 02:36:53 UTC] PHP Notice:  Undefined index: oturum in /home/linkhavu/public_html/kp/sohbet/index.php on line 6
+[11-Aug-2016 10:07:11 UTC] PHP Notice:  Undefined index: kulAdi in /home/linkhavu/public_html/kp/sohbet/index.php on line 5
+[11-Aug-2016 10:07:11 UTC] PHP Notice:  Undefined index: oturum in /home/linkhavu/public_html/kp/sohbet/index.php on line 6
+[12-Aug-2016 19:26:20 UTC] PHP Notice:  Undefined index: kulAdi in /home/linkhavu/public_html/kp/sohbet/index.php on line 5
+[12-Aug-2016 19:26:20 UTC] PHP Notice:  Undefined index: oturum in /home/linkhavu/public_html/kp/sohbet/index.php on line 6
+[13-Aug-2016 11:53:38 UTC] PHP Notice:  Undefined index: kulAdi in /home/linkhavu/public_html/kp/sohbet/index.php on line 5
+[13-Aug-2016 11:53:38 UTC] PHP Notice:  Undefined index: oturum in /home/linkhavu/public_html/kp/sohbet/index.php on line 6
+[14-Aug-2016 20:15:12 UTC] PHP Notice:  Undefined index: kulAdi in /home/linkhavu/public_html/kp/sohbet/index.php on line 5
+[14-Aug-2016 20:15:12 UTC] PHP Notice:  Undefined index: oturum in /home/linkhavu/public_html/kp/sohbet/index.php on line 6
+[14-Aug-2016 23:49:38 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/linkhavu/public_html/kp/sohbet/index.php:178) in /home/linkhavu/public_html/kp/sohbet/index.php on line 4
+[15-Aug-2016 00:23:34 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/linkhavu/public_html/kp/sohbet/index.php:178) in /home/linkhavu/public_html/kp/sohbet/index.php on line 4
+[15-Aug-2016 08:59:34 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/linkhavu/public_html/kp/sohbet/index.php:178) in /home/linkhavu/public_html/kp/sohbet/index.php on line 4
+[15-Aug-2016 09:00:04 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/linkhavu/public_html/kp/sohbet/index.php:178) in /home/linkhavu/public_html/kp/sohbet/index.php on line 4
+[15-Aug-2016 09:33:59 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/linkhavu/public_html/kp/sohbet/index.php:178) in /home/linkhavu/public_html/kp/sohbet/index.php on line 4
+[15-Aug-2016 09:44:26 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/linkhavu/public_html/kp/sohbet/index.php:178) in /home/linkhavu/public_html/kp/sohbet/index.php on line 4
+[15-Aug-2016 09:44:26 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/linkhavu/public_html/kp/sohbet/index.php:178) in /home/linkhavu/public_html/kp/sohbet/index.php on line 4
+[15-Aug-2016 09:44:26 UTC] PHP Notice:  Undefined index: kulAdi in /home/linkhavu/public_html/kp/sohbet/index.php on line 5
+[15-Aug-2016 09:44:26 UTC] PHP Notice:  Undefined index: oturum in /home/linkhavu/public_html/kp/sohbet/index.php on line 6
+[15-Aug-2016 09:44:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/linkhavu/public_html/kp/sohbet/index.php:178) in /home/linkhavu/public_html/dbBaglan.php on line 12
+[15-Aug-2016 11:23:00 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/linkhavu/public_html/kp/sohbet/index.php:178) in /home/linkhavu/public_html/kp/sohbet/index.php on line 4
+[16-Aug-2016 11:47:52 UTC] PHP Notice:  Undefined index: kulAdi in /home/linkhavu/public_html/kp/sohbet/index.php on line 5
+[16-Aug-2016 11:47:52 UTC] PHP Notice:  Undefined index: oturum in /home/linkhavu/public_html/kp/sohbet/index.php on line 6
